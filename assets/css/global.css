@@ -280,6 +280,7 @@ body {
     letter-spacing: 0;
     text-rendering: optimizeLegibility;
     background: #fff;
+    font-display: swap;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
